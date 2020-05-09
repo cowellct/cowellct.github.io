@@ -99,6 +99,3 @@ p {
 .about-author img {
   border-radius: 50%;
 }
-.post-container:nth-child(even) {
-  background-color: #D2D2D2;
-}
