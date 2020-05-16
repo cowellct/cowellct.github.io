@@ -100,7 +100,8 @@ p {
   border-radius: 50%;
 }
 .post-headline img {
-  width: 300px;
-  height: 300px;
-  vertical-align: middle;
+  width: 1140px;
+  height: 641px;
+  margin-left: auto;
+  margin-right: auto;
 }
