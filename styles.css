@@ -102,6 +102,5 @@ p {
 .post-headline img {
   width: 1140px;
   height: 641px;
-  margin-left: auto;
-  margin-right: auto;
+  vertical-align: middle;
 }
