@@ -99,3 +99,8 @@ p {
 .about-author img {
   border-radius: 50%;
 }
+.post-headline img {
+  width: 150px;
+  height: 150px;
+  vertical-align: middle;
+}
