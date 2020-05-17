@@ -104,3 +104,6 @@ p {
   height: 450px;
   vertical-align: middle;
 }
+#li, .list1 {
+  margin: 0 auto;
+}
