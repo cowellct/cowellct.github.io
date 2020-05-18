@@ -107,7 +107,7 @@ p {
 .list-one {
   margin: 0 auto;
 }
-.post-headline, .wisconsin img{
+.post-content, .wisconsin {
   width: 472px;
   height: 390px;
 }
