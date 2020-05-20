@@ -104,7 +104,11 @@ p {
   height: 450px;
   vertical-align: middle;
 }
-.list img {
+.list-one img {
+  width: 850px;
+  height: 400px;
+}
+.list-second img {
   width: 472px;
   height: 390px;
 }
