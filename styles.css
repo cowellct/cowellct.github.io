@@ -104,11 +104,11 @@ p {
   height: 450px;
   vertical-align: middle;
 }
-.post-headline, .list, .baylor img {
-  width: 850px;
-  height: 400px;
+.baylor img {
+  width: 850px !important;
+  height: 400px !important;
 }
-.post-headline, .list, .wisconsin img {
-  width: 472px;
-  height: 390px;
+.wisconsin img {
+  width: 472px !important;
+  height: 390px !important;
 }
