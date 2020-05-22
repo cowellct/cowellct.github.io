@@ -104,5 +104,5 @@ p {
   height: 450px;
   vertical-align: middle;
 }
-ol { text-align: center !important;
+ol li { text-align: center !important;
 }
