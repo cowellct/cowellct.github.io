@@ -104,3 +104,5 @@ p {
   height: 450px;
   vertical-align: middle;
 }
+li { text-align:center;
+}
