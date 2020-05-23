@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Inside Scoop</title>
+<link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <div id="header">
+  <div class="container">
+    <a id="header-title" href="index.html">Inside Scoop</a>
+  <ul id="header-nav">
+    <li><a href="about.html">About</a></li>
+    <li><a href="mailto:cowellct@miamioh.edu">Contact</a></li>
+  </ul>
+</div>
+</div>
+  <div id="content">
+  <div class="post-container">
+  <div class="post">
+    <div class="post-headline">
+        <img src="nfl.png">
+      <span>Colten Cowell</span>
+    <p class="post-date">5/22/2020</p>
+    <h1 class="post-title">Top Ten Schools With The Most Picks in 2020 NFL Draft</h1>
+    <div class="post-content"><p>The 2020 NFL Draft is in the books and several players saw their names called during this special
+    3 day event.  Players were filled with emotion when they hear their phone ring and hear a voice on the other end of the line says
+    "We would like you to be a part of our organization."  More importantly not only are the players happy to be selected, but their
+    respective universitys and college coaches are just as excited.  Hearing more and more players being drafted from a particular school can
+    do wonders for a team's image, recruiting, and reputation.  Last but not least it also gives rival schools bragging rights about who 
+    put more players into the NFL. <br><br>
+    You can find the list of 10 schools that had the most number of players drafted in this year's draft and see if your favorite school
+    made the cut.</p>
+      <ol reversed>
+       <li><strong>DE James Lynch, Baylor</strong></li>
+        <img class="baylor" src="james.png">
+        <p><strong>Round Taken:</strong> Round 4 <br>
+        <strong>Team Drafted By:</strong> Minnesota Vikings <br>
+        <strong>Actual:</strong> 130 <br>
+        <strong>Projected:</strong> 59.3 <br>
+        <strong>Difference:</strong> 70.7</p>
+        <li><strong>C Tyler Biadasz, Wisconsin</strong></li>
+       <img class="wisconsin" src="tyler.png">
+       <p><strong>Round Taken:</strong> Round 4 <br>
+         <strong>Team Drafted By:</strong> Dallas Cowboys <br>
+         <strong>Actual:</strong> 146 <br>
+         <strong>Projected:</strong> 69.3 <br>
+         <strong>Difference:</strong> 76.7</p>
+        <li><strong>S Brian Cole II, Mississippi State</strong></li>
+        <img class="mississippi" src="brian.png">
+        <p><strong>Round Taken:</strong> Round 7 <br>
+          <strong>Team Drafted By:</strong> Minnesota Vikings <br>
+          <strong>Actual:</strong> 249 <br>
+          <strong>Projected:</strong> 171.5 <br>
+          <strong>Difference:</strong> 77.5</p>
+          <li><strong>DE Kenny Willekes, Michigan State</strong></li>
+        <img class="state" src="kenny.png">
+        <p><strong>Round Taken:</strong> Round 7 <br>
+          <strong>Team Drafted By:</strong> Minnesota Vikings <br>
+          <strong>Actual:</strong> 225 <br>
+          <strong>Projected:</strong> 144.8 <br>
+          <strong>Difference:</strong> 80.2</p>
+        <li><strong>CB Bryce Hall, Virginia</strong></li>
+        <img class="virginia" src="bryce.png">
+        <p><strong>Round Taken:</strong> Round 5 <br>
+          <strong>Team Draftd By:</strong> New York Jets <br>
+          <strong>Actual:</strong> 159 <br>
+          <strong>Projected:</strong> 73.5 <br>
+          <strong>Difference:</strong> 85.5</p>
+        <li><strong>WR K.J. Hill, Ohio State</strong></li>
+        <img class="ohio" src="kj.png">
+        <p><strong>Round Taken:</strong> Round 7 <br>
+          <strong>Team Drafted By:</strong> Los Angeles Chargers <br>
+          <strong>Actual:</strong> 220 <br>
+          <strong>Projected:</strong> 122.9 <br>
+          <strong>Difference:</strong> 97.1</p>
+        <li><strong>DE Curtis Weaver, Boise State</strong></li>
+        <img class="boise" src="curtis.png">
+        <p><strong>Round Taken:</strong> Round 5 <br>
+          <strong>Team Drafted By:</strong> Miami Dolphins <br>
+          <strong>Actual:</strong> 165 <br>
+          <strong>Projected:</strong> 64.6 <br>
+          <strong>Difference:</strong> 100.4</p>
+        <li><strong>OT Prince Tega Wanogho, Auburn</strong></li>
+        <img class="auburn" src="prince.png">
+        <p><strong>Round Taken:</strong> Round 6 <br>
+          <strong>Team Drafted By:</strong> Philadelphia Eagles <br>
+          <strong>Actual:</strong> 210 <br>
+          <strong>Projected:</strong> 103.5 <br>
+          <strong>Difference:</strong> 106.5</p>
+        <li><strong>DE Bradlee Anae, Utah</strong></li>
+        <img class="utah" src="bradlee.png">
+        <p><strong>Round Taken:</strong> Round 5 <br>
+          <strong>Team Drafted By:</strong> Dallas Cowboys <br>
+          <strong>Actual:</strong> 180 <br>
+          <strong>Projected:</strong> 72.4 <br>
+          <strong>Difference:</strong> 107.6</p>
+        <li><strong>OG Netane Muti, Fresno State</strong></li>
+        <img class="fresno" src="netane.png">
+        <p><strong>Round Taken:</strong> Round 6 <br>
+          <strong>Team Drafted By:</strong> Denver Broncos <br>
+          <strong>Actual:</strong> 181 <br>
+          <strong>Projected:</strong> 67.4 <br>
+          <strong>Difference:</strong> 113.6</p>
+      </ol>                                   
+    </div>
+  </div>
+</div>
+</div>
+</div>
+  <div id="footer">
+  <div class="container">
+  <div class="column">
+    <h4>My Links</h4>
+    <p>
+    <a href="https://twitter.com/ColtenCowell">Twitter</a>
+  <br>
+<a href="https://www.facebook.com/colten.cowell">Facebook</a>
+</p>
+  </div>
+  <div class="column">
+    <h4>My Story</h4>
+    <p>Hi there! I'm an aspiring sports blogger looking to give you <br>
+      the "Inside Scoop" on all things NFL Draft related.</p>
+  </div>
+  </div>
+  </div>
+</body>
+</html>
